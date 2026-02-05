@@ -1,6 +1,7 @@
-# OpenSlate — Backend
+# Research Analysis Dashboard — Backend
 
-Backend services for OpenSlate: document ingestion, indexing, retrieval, and chat orchestration. The backend exposes APIs used by the frontend to manage projects, conversations, knowledge base documents, and grounded responses with citations.
+Backend services for document ingestion, indexing, retrieval, and chat orchestration. Exposes APIs used by the frontend to manage projects, conversations, knowledge base documents, and grounded responses with sources.
+
 
 ---
 
@@ -204,9 +205,3 @@ backend/
 - Validate auth tokens if the deployment requires it
 - Apply file-type validation and size limits for uploads
 - Store secrets only in environment variables (never commit keys)
-
----
-
-## License
-
-Add your preferred license here (MIT/Apache-2.0/etc.).
