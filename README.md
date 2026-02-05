@@ -1,4 +1,4 @@
-# Research Analysis Dashboard — Backend
+# Rag Agentic System — Backend
 
 Backend services for document ingestion, indexing, retrieval, and chat orchestration. Exposes APIs used by the frontend to manage projects, conversations, knowledge base documents, and grounded responses with sources.
 
